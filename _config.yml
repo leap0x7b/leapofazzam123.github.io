@@ -1,13 +1,13 @@
 # Site Settings
-title: Leap of Azzam
+title: "Leap of Azzam"
 email: leapofazzam@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  whalecum
 url: "https://leapofazzam-backup.github.io/"
 remote_theme: chrisrhymes/bulma-clean-theme
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: leapofazzam
+#gh_sponsor: leapofazzam
 hide_share_buttons: true
 theme_color: '#00baff'
 #fixed_navbar: top
@@ -68,4 +68,4 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+#footer_menu: example_footer_menu
