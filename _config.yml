@@ -24,11 +24,13 @@ disqus:
 
 
 plugins:
+  - github-pages
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
+  - jekyll-remote-theme
 
 #google_analytics: UA-code-here
 
