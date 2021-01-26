@@ -1,14 +1,14 @@
 # Site Settings
+remote_theme: chrisrhymes/bulma-clean-theme
 title: "Leap of Azzam"
 email: leapofazzam@gmail.com
 description: >
   whalecum
-url: "https://leapofazzam-backup.github.io/"
-remote_theme: chrisrhymes/bulma-clean-theme
+#url: "https://leapofazzam-backup.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: leapofazzam
-hide_share_buttons: true
+#hide_share_buttons: true
 theme_color: '#00baff'
 #fixed_navbar: top
 
